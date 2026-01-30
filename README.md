@@ -5,8 +5,6 @@ This project implements an **automated news scraping and analysis system** that 
 ## Overview
 The system automates web browsing to scrape news articles from multiple sources, processes the text data to extract meaningful insights, and generates visualizations to highlight trends in news coverage over time.
 
-## Architecture
-
 ## Features
 - Automated web scraping using **Selenium**
 - Extraction of headlines and article content
